@@ -1,0 +1,4 @@
+﻿  empty.cpp
+D:\Codefield\CODE_C++\Computer Graphics\cw2\third_party\glm\detail\type_quat.hpp(48,30): warning C4201: nonstandard extension used: nameless struct/union
+D:\Codefield\CODE_C++\Computer Graphics\cw2\third_party\glm\detail\type_quat.hpp(133,3): message : see reference to class template instantiation 'glm::qua<T,Q>' being compiled
+  vmlib.vcxproj -> D:\Codefield\CODE_C++\Computer Graphics\cw2\lib\vmlib-debug-x64-msc-v143.lib

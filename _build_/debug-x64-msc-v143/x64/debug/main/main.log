@@ -1,0 +1,20 @@
+﻿  dog.cpp
+  loadobj.cpp
+  main.cpp
+  simple_mesh.cpp
+D:\Codefield\CODE_C++\Computer Graphics\cw2\main\loadobj.cpp(1,1): warning C4828: The file contains a character starting at offset 0x13e that is illegal in the current source character set (codepage 65001).
+D:\Codefield\CODE_C++\Computer Graphics\cw2\main\loadobj.cpp(1,1): warning C4828: The file contains a character starting at offset 0x13f that is illegal in the current source character set (codepage 65001).
+D:\Codefield\CODE_C++\Computer Graphics\cw2\main\loadobj.cpp(1,1): warning C4828: The file contains a character starting at offset 0x142 that is illegal in the current source character set (codepage 65001).
+D:\Codefield\CODE_C++\Computer Graphics\cw2\main\loadobj.cpp(1,1): warning C4828: The file contains a character starting at offset 0x143 that is illegal in the current source character set (codepage 65001).
+D:\Codefield\CODE_C++\Computer Graphics\cw2\third_party\glm\detail\type_quat.hpp(48,30): warning C4201: nonstandard extension used: nameless struct/union (compiling source file dog.cpp)
+D:\Codefield\CODE_C++\Computer Graphics\cw2\third_party\glm\detail\type_quat.hpp(133,3): message : see reference to class template instantiation 'glm::qua<T,Q>' being compiled (compiling source file dog.cpp)
+D:\Codefield\CODE_C++\Computer Graphics\cw2\third_party\glm\detail\type_quat.hpp(48,30): warning C4201: nonstandard extension used: nameless struct/union (compiling source file simple_mesh.cpp)
+D:\Codefield\CODE_C++\Computer Graphics\cw2\third_party\glm\detail\type_quat.hpp(133,3): message : see reference to class template instantiation 'glm::qua<T,Q>' being compiled (compiling source file simple_mesh.cpp)
+D:\Codefield\CODE_C++\Computer Graphics\cw2\third_party\glm\detail\type_quat.hpp(48,30): warning C4201: nonstandard extension used: nameless struct/union (compiling source file loadobj.cpp)
+D:\Codefield\CODE_C++\Computer Graphics\cw2\third_party\glm\detail\type_quat.hpp(133,3): message : see reference to class template instantiation 'glm::qua<T,Q>' being compiled (compiling source file loadobj.cpp)
+D:\Codefield\CODE_C++\Computer Graphics\cw2\third_party\glm\detail\type_quat.hpp(48,30): warning C4201: nonstandard extension used: nameless struct/union (compiling source file main.cpp)
+D:\Codefield\CODE_C++\Computer Graphics\cw2\third_party\glm\detail\type_quat.hpp(133,3): message : see reference to class template instantiation 'glm::qua<T,Q>' being compiled (compiling source file main.cpp)
+D:\Codefield\CODE_C++\Computer Graphics\cw2\main\main.cpp(589,44): warning C4100: 'aWindow': unreferenced formal parameter
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition (compiling source file loadobj.cpp)
+D:\Codefield\CODE_C++\Computer Graphics\cw2\third_party\glad\include\glad.h(34,1): message : see previous definition of 'APIENTRY' (compiling source file loadobj.cpp)
+  main.vcxproj -> D:\Codefield\CODE_C++\Computer Graphics\cw2\bin\main-debug-x64-msc-v143.exe
